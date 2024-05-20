@@ -1,0 +1,30 @@
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\appsettings.Development.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\appsettings.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.staticwebassets.runtime.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.exe
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.deps.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.runtimeconfig.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.dll
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\bin\Debug\net8.0\Model Paper.pdb
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.AssemblyInfoInputs.cache
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.AssemblyInfo.cs
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.csproj.CoreCompileInputs.cache
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.RazorAssemblyInfo.cache
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.RazorAssemblyInfo.cs
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets.build.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets.development.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets\msbuild.Model Paper.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets\msbuild.build.Model Paper.props
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Model Paper.props
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Model Paper.props
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\scopedcss\bundle\Model Paper.styles.css
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\scopedcss\projectbundle\Model Paper.bundle.scp.css
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.dll
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\refint\Model Paper.dll
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.pdb
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.genruntimeconfig.cache
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\ref\Model Paper.dll
