@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "E:\\ASP .NET PRACTICE\\Model Paper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|e:\\asp .net practice\\model paper\\model paper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5912B3-35B4-4527-AB69-34EE1348E005}|Model Paper\\Model Paper.csproj|solutionrelative:model paper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,93 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Model Paper\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Model Paper\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T18:00:13.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FIleUploadController.cs",
-              "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Controllers\\FIleUploadController.cs",
-              "RelativeDocumentMoniker": "Model Paper\\Controllers\\FIleUploadController.cs",
-              "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Controllers\\FIleUploadController.cs",
-              "RelativeToolTip": "Model Paper\\Controllers\\FIleUploadController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:11:48.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Model Paper\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Model Paper\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T16:40:43.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Program.cs",
-              "RelativeDocumentMoniker": "Model Paper\\Program.cs",
-              "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Program.cs",
-              "RelativeToolTip": "Model Paper\\Program.cs",
-              "ViewState": "AQIAAAYAAADAzMzMzMwswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:30:39.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Model Paper\\Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Model Paper\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:30:13.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Model Paper\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Model Paper\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAADAzMzMzMw2wBoAAAAIAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T16:29:26.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\appsettings.json",
-              "RelativeDocumentMoniker": "Model Paper\\appsettings.json",
-              "ToolTip": "E:\\ASP .NET PRACTICE\\Model Paper\\Model Paper\\appsettings.json",
-              "RelativeToolTip": "Model Paper\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T16:28:31.442Z",
               "EditorCaption": ""
             }
           ]

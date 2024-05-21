@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Model Paper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1147791558e2fde1913e91b24cb4de08506bf482")]
 [assembly: System.Reflection.AssemblyProductAttribute("Model Paper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Model Paper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

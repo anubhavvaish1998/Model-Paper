@@ -6,7 +6,7 @@
 </div>
 <div class="container">
     <div class="mb-3 mt-3">
-        <form method="post" enctype="multipart/form-data" asp-action="Upoload" asp-controller="Home">
+        <form method="post" enctype="multipart/form-data">
             <div class="mb-3 mt-3">
                 <label class="form-lable">
                     Upload File
@@ -17,6 +17,7 @@
                <button type="submit" class="btn btn-primary">Upload</button>
             </div>
         </form>
+        @ViewBag.Message
     </div>
 </div>
 

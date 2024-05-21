@@ -28,3 +28,4 @@ E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\refint\Model Paper
 E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.pdb
 E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.genruntimeconfig.cache
 E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\ref\Model Paper.dll
+E:\ASP .NET PRACTICE\Model Paper\Model Paper\obj\Debug\net8.0\Model Paper.sourcelink.json
